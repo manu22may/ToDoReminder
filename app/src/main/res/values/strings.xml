@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Todo Reminder</string>
+    <string name="feature2">checking feature 2 branch</string>
 </resources>
